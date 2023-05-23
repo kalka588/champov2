@@ -94,7 +94,7 @@ const Send = (props) => {
             <div>
               <div>
                 <h1>
-                    List de scan
+                    Liste de scan
                 </h1>
 
                 <div class="list">
